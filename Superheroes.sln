@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SuperModels", "SuperModels\SuperModels.csproj", "{5FC405F1-D346-4D0B-A507-ADBFF3CD6649}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Kepregeny", "Kepregeny\Kepregeny.csproj", "{7F8456B5-F6A6-4662-9F7F-92194304671D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5FC405F1-D346-4D0B-A507-ADBFF3CD6649}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5FC405F1-D346-4D0B-A507-ADBFF3CD6649}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5FC405F1-D346-4D0B-A507-ADBFF3CD6649}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5FC405F1-D346-4D0B-A507-ADBFF3CD6649}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F8456B5-F6A6-4662-9F7F-92194304671D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F8456B5-F6A6-4662-9F7F-92194304671D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F8456B5-F6A6-4662-9F7F-92194304671D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F8456B5-F6A6-4662-9F7F-92194304671D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3BDD974A-6BB1-4419-B790-B0D2CBB9D7E8}
+	EndGlobalSection
+EndGlobal
